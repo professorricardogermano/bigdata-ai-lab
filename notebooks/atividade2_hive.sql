@@ -1,0 +1,1 @@
+-- Consulta Hive de exemplo
