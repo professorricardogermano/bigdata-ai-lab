@@ -115,6 +115,3 @@ Para os scripts de configuração, vamos dividi-los. A ideia é ter um script pr
 
 **Para o Ollama:** O script de setup do Debian já pode incluir a instalação do Ollama e o download de um modelo básico (como `llama2`).
 
----
-
-Me diga o que você acha desses esboços para os conteúdos. Podemos ajustá-los. Assim que você tiver os conteúdos iniciais no GitHub, podemos focar nos scripts de configuração e nas estratégias para tornar o ambiente acessível e os desafios dinâmicos!
