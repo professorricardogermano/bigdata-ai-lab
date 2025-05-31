@@ -2,7 +2,7 @@
 
 # ==============================================================================
 # Script de Configuração Completa do Ambiente Big Data & IA no Debian 12
-# Autor: Adaptado por Gemini para Ricardo Germano
+# Autor: Ricardo Germano
 # Data: 30 de Maio de 2025
 #
 # Este script automatiza a instalação e configuração de:
