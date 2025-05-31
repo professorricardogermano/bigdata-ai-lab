@@ -2,7 +2,7 @@
 
 # ==============================================================================
 # Script para Criar e Configurar uma VM Debian 12 no VirtualBox
-# Autor: Adaptado por Gemini para Ricardo Germano
+# Autor: Ricardo Germano
 # Data: 30 de Maio de 2025
 #
 # Este script cria uma nova máquina virtual Debian 12 no VirtualBox.
